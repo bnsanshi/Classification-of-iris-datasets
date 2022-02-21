@@ -38,7 +38,8 @@ graph.view()		# 绘制决策树
 ![image](https://github.com/bnsanshi/Classification-of-iris-datasets/blob/main/Source.gv_00.jpg)
 
 - ## 思路
-  实例化模型➖调参➖训练模型➖测试模型
+  实例化模型➖调参➖训练模型➖测试模型  
+  
   调参过程：绘制学习曲线，根据曲线调整合适的参数
 
   ![image](https://github.com/bnsanshi/Classification-of-iris-datasets/blob/main/max_depth.png)
