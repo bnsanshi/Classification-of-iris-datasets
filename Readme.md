@@ -44,13 +44,14 @@ graph.view()		# 绘制决策树
   ![image](https://github.com/bnsanshi/Classification-of-iris-datasets/blob/main/max_depth.png)
 
 
-![image](C:\Users\颜景辉\Desktop\Readme\min_samples_split.png)
+![image](https://github.com/bnsanshi/Classification-of-iris-datasets/blob/main/min_samples_split.png)
 
-![image](C:\Users\颜景辉\Desktop\Readme\min_samples_leaf.png)
+![image](https://github.com/bnsanshi/Classification-of-iris-datasets/blob/main/min_samples_leaf.png)
 
 
 
 决策树在鸢尾花数据集上的表现似乎还不错，其实好像不需要怎么调参。
+
 
 
 
