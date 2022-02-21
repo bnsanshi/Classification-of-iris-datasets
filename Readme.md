@@ -35,18 +35,18 @@ graph.view()		# 绘制决策树
 ```
 一开始我在绘制决策树时出现了中文乱码，查了一下后发现将fontname参数改为Microsoft YaHei即可解决。
 
-![Source.gv_00](C:\Users\颜景辉\Desktop\Readme\Source.gv_00.jpg)
+![image](https://github.com/bnsanshi/Classification-of-iris-datasets/blob/main/Source.gv_00.jpg)
 
 - ## 思路
   实例化模型➖调参➖训练模型➖测试模型
   调参过程：绘制学习曲线，根据曲线调整合适的参数
 
-  ![image-20220220201650290](C:\Users\颜景辉\Desktop\Readme\image-20220220201650290.png)
+  ![image](https://github.com/bnsanshi/Classification-of-iris-datasets/blob/main/max_depth.png)
 
 
-![image-20220220192321541](C:\Users\颜景辉\Desktop\Readme\image-20220220192321541.png)
+![image](C:\Users\颜景辉\Desktop\Readme\min_samples_split.png)
 
-![image-20220220192444450](C:\Users\颜景辉\Desktop\Readme\image-20220220192444450.png)
+![image](C:\Users\颜景辉\Desktop\Readme\min_samples_leaf.png)
 
 
 
